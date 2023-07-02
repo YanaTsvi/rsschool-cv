@@ -25,3 +25,4 @@ return a * b
 + ## Language:
 - Russian - Native
 - English - Basic
+- Ukrainian - Basic
