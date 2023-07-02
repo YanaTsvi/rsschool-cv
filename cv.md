@@ -8,9 +8,9 @@
 + Some time ago, I started to get involved in programming, namely, I was interested in web development. All this time I have been learning programming on my own with the help of videos and various Internet resources. Recently I found out about RS School and decided to try to study here.
 
 + ## Skills:
-- HTML
-- CSS
-- JavaScript
++ - HTML
++ - CSS
++ - JavaScript
 
 + ## Code example:
 
