@@ -1,1 +1,94 @@
+@font-face {
+  font-family: Roboto;
+   src: url("assets/fonts/Roboto-Regular.ttf");
+}
+
+header {
+  background-color: #4985df;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: 120%;
+  text-align: center;
+}
+
+ul.list li{
+    display: inline;
+    padding: 25px;
+}
+
+
+a:visited {
+  color: #020271e9;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul li {
+  font-size: 120%;
+}
+
+
+#div2 {
+    background-color: #bef5f5;
+    padding: 15px;
+    border-left: 15px #3c5e55 double;
+    color: #3623c3;
+    font-size: 120%;
+}
+  
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #1e3932;
+    text-align: center;
+    font-weight: 500;
+}
+  
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+    color: #285045;
+}
+
+pre {
+    text-align: left;
+    border: 2px #57a5ca dashed;
+    background-color: #e1d0eeb1;
+    padding: 0px 30px;
+    margin: 0px 50px;
+}
+
+code {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 120%;
+}
+
+footer {
+    background-color: #4985df;
+    display: inline-flexbox;
+    margin-top: 5px;
+    font-size: 120%;
+    padding: 10px 10px 0px 10px;
+    text-align: center;
+}
+
 
